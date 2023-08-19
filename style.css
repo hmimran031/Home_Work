@@ -54,6 +54,7 @@ img {
   background-position: center;
   background-size: cover;
   padding-top: 60px;
+  margin-bottom: 70px;
 }
 .imgs img {
   height: auto;
@@ -70,9 +71,26 @@ img {
 }
 .contents p {
   width: 490px;
+  color: #828282;
 }
 .contents a {
   margin-top: 70px;
 }
 
 /*  */
+.recipie {
+}
+.recipie-content {
+  text-align: center;
+}
+.recipie-content h2 {
+  font-size: 35px;
+  margin-bottom: 30px;
+  color: #575757;
+}
+.recipie-content p {
+  width: 700px;
+  margin: auto;
+  font-size: 22px;
+  color: #828282;
+}
